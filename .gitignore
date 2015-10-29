@@ -1,0 +1,9 @@
+# backups
+*_
+*.bak
+
+# ejecutables
+*.exe
+*.dll
+bin/
+obj/
